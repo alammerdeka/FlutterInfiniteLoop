@@ -19,7 +19,7 @@ class _NowPlayingState extends State<NowPlaying> {
     return Scaffold(
         appBar: AppBar(
           title: const Text(
-            'NOW PLAYING',
+            'INFINITE SCROLL',
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24.0),
           ),
           centerTitle: false,
